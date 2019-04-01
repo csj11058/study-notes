@@ -1,0 +1,20 @@
+一、 列表、字典、元组 
+1、 https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431658624177ea4f8fcb06bc4d0e8aab2fd7aa65dd95000 
+2、 随便创建一个列表（内容为数字），随便创建一个字典（键值为str，key值为数字），随便创建一个元组 
+二、函数 
+1、https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431658624177ea4f8fcb06bc4d0e8aab2fd7aa65dd95000
+2、定义一个求和函数，当模式一时可以求和列表中所有的元素，模式二时可以求和字典 
+三、break， continue 
+1、https://www.cnblogs.com/ymany/p/8618686.html 
+2、写一个函数从一加到100用break终止，写一个函数从1加到100，不包含数字50. 
+四、列表推导式（这里上心，学会了做很多都很方便） 
+1、 https://www.cnblogs.com/tkqasn/p/5977653.html 
+2、用列表推导式表示从0到200 之间的偶数，表示从0到200之间所有可以被3整除的数 
+五、集合 set 
+1、https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431658624177ea4f8fcb06bc4d0e8aab2fd7aa65dd95000 
+2、求上边两个列表的与集，或集，差集。 
+结果都用jupyter notebook 提交到自己的github文档下面。 
+上传之前先git pull拉一下云端最新的再git push。 
+jupyter 左上角的file下拉可以下载成对应格式ipynb
+
+
