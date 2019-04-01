@@ -6,6 +6,7 @@
 2、定义一个求和函数，当模式一时可以求和列表中所有的元素，模式二时可以求和字典 
 三、break， continue 
 1、https://www.cnblogs.com/ymany/p/8618686.html 
+https://blog.csdn.net/weixin_39431596/article/details/78740797
 2、写一个函数从一加到100用break终止，写一个函数从1加到100，不包含数字50. 
 四、列表推导式（这里上心，学会了做很多都很方便） 
 1、 https://www.cnblogs.com/tkqasn/p/5977653.html 
